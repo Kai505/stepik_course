@@ -1,0 +1,5 @@
+x = int(input())
+c = int(input())
+print(x, "+", c, "=", x + c)
+print(x, "-", c, "=", x - c)
+print(x, "*", c, "=", x * c)
